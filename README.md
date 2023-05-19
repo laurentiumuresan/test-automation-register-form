@@ -1,5 +1,4 @@
 # test-automation-register-form
-<<<<<<< HEAD
 
 This project is focused on automated testing of the Signup page of a website
 
