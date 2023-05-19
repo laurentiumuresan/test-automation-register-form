@@ -1,7 +1,7 @@
 package tests;
 
 import Utils.SeleniumUtils;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class BaseUITest {
-    WebElement driver;
+    WebDriver driver;
     String url;
     String signUpPath;
     String browser;

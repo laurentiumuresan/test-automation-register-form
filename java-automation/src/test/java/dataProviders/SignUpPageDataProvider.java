@@ -3,12 +3,12 @@ package dataProviders;
 import org.testng.annotations.DataProvider;
 
 public class SignUpPageDataProvider {
-    @DataProvider(name = "signUpPageDataProvide")
+    @DataProvider(name = "signUpPageDataProvider")
     public Object[][] SignUpPageDataProvider(){
         return new Object[][]{
-                {"chrome"},
-                {"firefox"},
-                {"edge"}
+                {"chrome", true},
+                {"firefox", true},
+                {"edge", true}
         };
     }
 }
