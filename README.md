@@ -4,8 +4,8 @@
 This project is focused on automated testing of the Signup page of a website
 
 ## Site to test
-![Site 1 image](docs/p1.jpg)
-![Site 2 image](docs/p2.jpg)
+![Site 1 image](java-automation/docs/p1.jpg.png)
+![Site 2 image](java-automation/docs/p2.jpg.png)
 
 ## Link to site
 
